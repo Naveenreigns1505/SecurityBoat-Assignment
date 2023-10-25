@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SecurityBoat-Assignment/static/css/main.27efbce0.css",
+    "main.js": "/SecurityBoat-Assignment/static/js/main.2bb2dd4d.js",
+    "index.html": "/SecurityBoat-Assignment/index.html",
+    "main.27efbce0.css.map": "/SecurityBoat-Assignment/static/css/main.27efbce0.css.map",
+    "main.2bb2dd4d.js.map": "/SecurityBoat-Assignment/static/js/main.2bb2dd4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27efbce0.css",
+    "static/js/main.2bb2dd4d.js"
+  ]
+}
